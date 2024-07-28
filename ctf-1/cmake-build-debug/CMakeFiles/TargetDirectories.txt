@@ -1,0 +1,3 @@
+C:/Users/Gabriel_Shahrouzi/CLionProjects/ctf-1/cmake-build-debug/CMakeFiles/ctf_1.dir
+C:/Users/Gabriel_Shahrouzi/CLionProjects/ctf-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gabriel_Shahrouzi/CLionProjects/ctf-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
